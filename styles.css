@@ -2,14 +2,35 @@
 
 body {
   margin: 0;
+  font-family: sans-serif;
 }
 
+.container {
+  background: #23424A;
+  color: white;
+
+  width: 80%;
+  margin: 0 auto;
+
+  padding: 5em; /* 16 (parent font size) * 5 = 80px */
+  /* height: 300px; */
+}
+
+/*
 .parent {
   background-color: #23424A;
   padding: 50px;
+
+
+  margin: 0 auto;
+  width: 80%;
 }
 
 .child {
   background-color: #38CFD9;
+
+  /* This width percentage is always based of the percentage width of the parent. */
+/*
+  width: 50%;
   height: 250px;
-}
+} */
