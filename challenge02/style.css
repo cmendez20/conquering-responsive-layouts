@@ -35,3 +35,9 @@ body {
 .intro-content {
   width: 50%;
 }
+
+.main-content {
+  max-width: 750px;
+  width: 80%;
+  margin: 0 auto;
+}
