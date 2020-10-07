@@ -1,0 +1,52 @@
+*, *:before, *:after {
+  box-sizing: inherit
+}
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.intro {
+  background: #136C72;
+  padding: 50px 8rem;
+}
+
+.container {
+  width: 80%;
+  max-width: 700px;
+}
+
+.intro-content {
+  color: #f2f2f2;
+}
+
+.intro-content h1 {
+  font-weight: 900;
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+}
+
+.intro-content p {
+  font-weight: 400;
+  font-size: 21px;
+  margin-bottom: 3rem;
+}
+
+.intro-btn {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1rem;
+  letter-spacing: 5%;
+  display: inline-block;
+  color: #23424A;
+  background: #38CFD9;
+  border-radius: 100px;
+  padding: 1em 2.5em;
+}
+
+

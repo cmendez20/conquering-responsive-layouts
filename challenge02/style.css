@@ -27,6 +27,9 @@ body {
   width: 80%;
   max-width: 750px;
   margin: 0 auto;
+}
+
+.intro {
   background: #23424a;
   color: white;
   padding: 50px 0;
@@ -34,10 +37,4 @@ body {
 
 .intro-content {
   width: 50%;
-}
-
-.main-content {
-  max-width: 750px;
-  width: 80%;
-  margin: 0 auto;
 }
