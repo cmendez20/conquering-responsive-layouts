@@ -94,12 +94,16 @@ h1 {
     padding: 2em 0;
 }
 
+.main-section__content {
+    width: 62%;
+}
+
 .main-section__content h2 {
     color: #136C72;
 }
 
 .main-section__content p {
-    color: ##3A3A3A;
+    color: #3A3A3A;
 }
 
 .aside {
@@ -108,4 +112,5 @@ h1 {
     text-align: center;
     padding: 1em 2em;
     margin-left: 2em;
+    width: 32%;
 }
